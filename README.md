@@ -36,6 +36,7 @@ This project is a simple hardware-based calculator implemented using an AVR Atme
 - **Calculate**: Press the `=` key to perform the operation and display the result on the LCD.
 - **Clear Display**: Press the `c` key to clear the display.
 
+![Uploading Calculator (1).gif…]()
 
 ---
 
