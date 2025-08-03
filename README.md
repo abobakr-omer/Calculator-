@@ -35,8 +35,8 @@ This project is a simple hardware-based calculator implemented using an AVR Atme
 - **Select Operation**: Press the corresponding key for addition (`+`), subtraction (`-`), multiplication (`*`), or division (`/`).
 - **Calculate**: Press the `=` key to perform the operation and display the result on the LCD.
 - **Clear Display**: Press the `c` key to clear the display.
+![Calculator](https://github.com/user-attachments/assets/f7f3cc19-40f1-4996-8fcd-e8955f5da1db)
 
-![Uploading Calculator (1).gif…]()
 
 ---
 
