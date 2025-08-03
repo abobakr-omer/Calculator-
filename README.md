@@ -39,4 +39,4 @@ This project is a simple hardware-based calculator implemented using an AVR Atme
 
 ---
 
-Made with ❤️ by [Aboubakr Amr Ibnelkhatab]
+Made with ❤️ by [Aboubakr Omar Ibnelkhatab]
